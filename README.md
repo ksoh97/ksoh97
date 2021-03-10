@@ -9,7 +9,7 @@ I am an integrated M.S/Ph.D student of Artificial Intelligence, Korea University
 - 
 
 #### Research Interest
-- 
+- Machine learning, Deep learning, Counterfactual reasoning, Generative model,  Brain disease diagnosis
 
 #### Skill
 - Programing Language: Python, Visual C/C++, Javascript, R, and MATLAB

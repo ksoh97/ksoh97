@@ -1,5 +1,5 @@
 ## Kwanseok Oh
-***
+
 I am an integrated M.S/Ph.D student of Artificial Intelligence, Korea University. My research interests include eXplainable AI, Computer Vision, and Biomedical Image Analysis.
 
 #### Contact

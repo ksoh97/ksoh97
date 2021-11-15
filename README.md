@@ -12,5 +12,5 @@ I am an integrated M.S/Ph.D student of Artificial Intelligence, Korea University
 - Machine/Deep learning, Computer vision, Explainable AI, and Brain disease diagnosis
 
 #### Skill
-- Programing Language: Python, Visual C/C++, Javascript, R, and MATLAB
+- Programming Language: Python, Visual C/C++, Javascript, R, and MATLAB
 - Deep Learning Framework: TensorFlow/Keras, PyTorch

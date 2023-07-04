@@ -9,7 +9,7 @@ I am an integrated M.S/Ph.D student of Artificial Intelligence, Korea University
 - Github: https://github.com/ksoh97
 
 #### Research Interest
-- Machine/Deep learning, Computer vision, Explainable AI, and Brain disease diagnosis
+- Machine/Deep learning, Computer vision, Explainable AI, and Medical image analysis
 
 #### Skill
 - Programming Language: Python, Visual C/C++, Javascript, R, and MATLAB

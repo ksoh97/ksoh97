@@ -1,6 +1,6 @@
 ## Kwanseok Oh (Kwan-Seok Oh)
 
-I am an integrated M.S/Ph.D student of Artificial Intelligence, Korea University. My research interests include eXplainable AI, Computer Vision, and Biomedical Image Analysis.
+I am an integrated M.S/Ph.D student of Artificial Intelligence, Korea University.
 
 #### Contact
 - Tel: +82-2-3290-3738
@@ -9,7 +9,7 @@ I am an integrated M.S/Ph.D student of Artificial Intelligence, Korea University
 - Google Scholar: [https://my-google-scholar.com](https://scholar.google.co.kr/citations?user=EMYHaHUAAAAJ&hl=ko)
 
 #### Research Interest
-- Machine/Deep learning, Computer vision, Explainable AI, and Medical image analysis
+- Machine/Deep learning, Computer vision, Explainable AI, and Biomedical image analysis
 
 #### Skill
 - Programming Language: Python, Visual C/C++, Javascript, R, and MATLAB

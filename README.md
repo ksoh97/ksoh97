@@ -6,7 +6,7 @@ I am an integrated M.S/Ph.D student of Artificial Intelligence, Korea University
 - Tel: +82-2-3290-3738
 - Lab: https://milab.korea.ac.kr
 - E-mail: ksohh@korea.ac.kr
-- Github: https://github.com/ksoh97
+- Google Scholar: [https://my-google-scholar.com](https://scholar.google.co.kr/citations?user=EMYHaHUAAAAJ&hl=ko)
 
 #### Research Interest
 - Machine/Deep learning, Computer vision, Explainable AI, and Medical image analysis

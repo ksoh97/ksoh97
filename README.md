@@ -1,4 +1,4 @@
-## Kwanseok Oh (Kwan-Seok Oh)
+## Kwanseok Oh (Kwan Seok Oh)
 
 I am an integrated M.S/Ph.D student of Artificial Intelligence, Korea University.
 

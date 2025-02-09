@@ -4,7 +4,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 
 ## 🧐 Research Interests
 - Medical/Computer Vision
-- Explainable AI, Generalizable/Foundational Modeling, Representation Learning, and Biomedical image analysis
+- Generalizable/Foundational Modeling, Explainable AI (XAI), Representation Learning, and Biomedical image analysis
 
 ## 🛠️ Skills
 - Programming Language: Python, Visual C/C++, Javascript, R, and MATLAB
@@ -16,6 +16,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**,  [Under Review](https://arxiv.org/pdf/2410.16945)
 - **FIESTA: Fourier-based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**, [Under Review](https://arxiv.org/pdf/2406.14308)
 - **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Under Review](https://arxiv.org/pdf/2402.08409)
+
 - **[2025] A Quantitatively Interpretable Model for Alzheimer’s Disease Prediction using Deep Counterfactuals**,  [NeuroImage](https://arxiv.org/pdf/2310.03457), JCR-IF: 4.7, Neuroimaging: 1/15
 - **[2025] Linear Fusion-Based Dual-MR Contrast Enhancement for Improved Choroid Plexus Segmentation**, [ISMRM](https://www.ismrm.org/25/accepted_abstracts.pdf), Oral Presentation
 - **[2024] Domain Generalization for Medical Image Analysis: A Review**, [Proceedings of the IEEE](https://ieeexplore.ieee.org/document/10780969), JCR-IF: 23.2, Engineering, Electrical & Electronic 2/353
@@ -27,7 +28,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[2022] Learn-Explain-Reinforce: Counterfactual Reasoning and Its Guidance to Reinforce an Alzheimer’s Disease Diagnosis Model**, [IEEE TPAMI](https://ieeexplore.ieee.org/document/9854196), JCR-IF: 24.314, Computer Science & Artificial Intelligence: 2/144
 - **[2022] A Novel Knowledge Keeper Network for 7T-Free But 7T-Guided Brain Tissue Segmentation**, [MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_32)
 - **[2020] VIGNet: A Deep Convolutional Neural Network for EEG-based Driver Vigilance Estimation**, [IEEE IWCBCI](https://ieeexplore.ieee.org/document/9061668)
-- Others (KHBM, IEIE, KSEE, JKAIA, CKMS, KCR)
+- Domestic Conferences (1 KHBM, 1 IEIE, 1 IPIU, 1 KSEE, 3 KAIA, 1 CKMS, 2 KCR)
 
 ## 📝Patents & Software Registration
 - **[U.S. Patent Registration] METHOD AND APPARATUS FOR REASONING AND REINFORCING DECISION IN BRAIN DISEASE DIAGNOSIS MODEL (No. 17714390)**
@@ -40,7 +41,6 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[Software Registration] 뇌 영상 기반 설명 가능한 알츠하이머병 조기 예측 프로그램 (No. No. 114471-0002565)**
 
 ## ✨ Awards & Honors
-
 - **[2024] TopCow2024 Grand Challenge, MICCAI**
   - Detection (CTA&MRA): 2nd; Segmentation (CTA&MRA): 3rd; Classification (CTA&MRA): 4th
 - **[2023] KU Achievement Award 2022, Korea University**
@@ -48,7 +48,6 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[2023] 4th JW Foundation Fundamental Scientist Scholarship, JW Foundation**
 - **[2023] NAVER Ph.D. Fellowship Award 2022, Naver Corp.**
 - **[2022] Qualcomm Innovation Fellowship Korea 2022, Qualcomm AI Research**
-  - One of the finalist Paper in this year
 - **[2022] KT Business Startup Idea Challenge, KT Enterprise**
   - Excellence Award (2nd)
 - **[2022] Announcement of Outstanding Research Results at the Graduate School of Artificial Intelligence Symposium (Coex Grand Room), Artificial Intelligence Graduate School Council (AIGSC)**

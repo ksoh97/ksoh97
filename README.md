@@ -10,7 +10,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - Programming Language: Python, Visual C/C++, Javascript, R, and MATLAB
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
-## 📝Publications
+## 📰 Publications
 - **Multi-Scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
 - **DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)
 - **IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**,  [Under Review](https://arxiv.org/pdf/2410.16945)
@@ -30,7 +30,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[2020] VIGNet: A Deep Convolutional Neural Network for EEG-based Driver Vigilance Estimation**, [IEEE IWCBCI](https://ieeexplore.ieee.org/document/9061668)
 - Domestic Conferences (1 KHBM, 1 IEIE, 1 IPIU, 1 KSEE, 3 KAIA, 1 CKMS, 2 KCR)
 
-## 📝Patents & Software Registration
+## 📝 Patents & Software Registration
 - **[U.S. Patent Registration] METHOD AND APPARATUS FOR REASONING AND REINFORCING DECISION IN BRAIN DISEASE DIAGNOSIS MODEL (No. 17714390)**
 - **[U.S. Patent Application] BRAIN IMAGE-BASED QUANTITATIVE BRAIN DISEASE PREDICTION METHOD AND APPARATUS (No. 18212261)**
 - **[KR Patent Application] 뇌혈관계 다중 분할 기반의 뇌동맥류 검출 장치 (No. 10-2024-0169281)**
@@ -40,7 +40,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[Technology Transfer/KR Patent Registration] 반려동물 관리시스템 및 방법 (No. 10-1983101)**
 - **[Software Registration] 뇌 영상 기반 설명 가능한 알츠하이머병 조기 예측 프로그램 (No. No. 114471-0002565)**
 
-## ✨ Awards & Honors
+## 🏅 Awards & Honors
 - **[2024] TopCow2024 Grand Challenge, MICCAI**
   - Detection (CTA&MRA): 2nd; Segmentation (CTA&MRA): 3rd; Classification (CTA&MRA): 4th
 - **[2023] KU Achievement Award 2022, Korea University**

@@ -15,7 +15,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)
 - **IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**,  [Under Review](https://arxiv.org/pdf/2410.16945)
 - **FIESTA: Fourier-based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**, [Under Review](https://arxiv.org/pdf/2406.14308)
-- **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Under Review](https://arxiv.org/pdf/2402.08409)
+- **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [IEEE TNNLS](https://arxiv.org/pdf/2402.08409)
 
 - **[2025] A Quantitatively Interpretable Model for Alzheimer’s Disease Prediction using Deep Counterfactuals**,  [NeuroImage](https://arxiv.org/pdf/2310.03457), JCR-IF: 4.7, Neuroimaging: 1/15
 - **[2025] Linear Fusion-Based Dual-MR Contrast Enhancement for Improved Choroid Plexus Segmentation**, [ISMRM](https://www.ismrm.org/25/accepted_abstracts.pdf), Oral Presentation
@@ -31,8 +31,8 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - Domestic Conferences (1 KHBM, 1 IEIE, 1 IPIU, 1 KSEE, 3 KAIA, 1 CKMS, 2 KCR)
 
 ## 📝 Patents & Software Registration
-- **[U.S. Patent Registration] METHOD AND APPARATUS FOR REASONING AND REINFORCING DECISION IN BRAIN DISEASE DIAGNOSIS MODEL (No. 17714390)**
-- **[U.S. Patent Application] BRAIN IMAGE-BASED QUANTITATIVE BRAIN DISEASE PREDICTION METHOD AND APPARATUS (No. 18212261)**
+- **[US Patent Registration] METHOD AND APPARATUS FOR REASONING AND REINFORCING DECISION IN BRAIN DISEASE DIAGNOSIS MODEL (No. 17714390)**
+- **[US Patent Application] BRAIN IMAGE-BASED QUANTITATIVE BRAIN DISEASE PREDICTION METHOD AND APPARATUS (No. 18212261)**
 - **[KR Patent Application] 뇌혈관계 다중 분할 기반의 뇌동맥류 검출 장치 (No. 10-2024-0169281)**
 - **[KR Patent Registration] 알츠하이머병 진단 모델의 결정을 해석하고 강화하는 방법 및 장치 (No. 10-2593036)**
 - **[KR Patent Registration] 분류 결과 설명이 가능한 반 사실적 맵 생성 방법 및 그 장치 (No. 10-2496769)**

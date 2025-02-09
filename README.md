@@ -17,6 +17,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **FIESTA: Fourier-based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**, [Under Review](https://arxiv.org/pdf/2406.14308)
 - **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Under Review](https://arxiv.org/pdf/2402.08409)
 - **[2025] A Quantitatively Interpretable Model for Alzheimer’s Disease Prediction using Deep Counterfactuals**,  [NeuroImage](https://arxiv.org/pdf/2310.03457), JCR-IF: 4.7, Neuroimaging: 1/15
+- **[2025] Linear Fusion-Based Dual-MR Contrast Enhancement for Improved Choroid Plexus Segmentation**, [ISMRM](https://www.ismrm.org/25/accepted_abstracts.pdf), Oral Presentation
 - **[2024] Domain Generalization for Medical Image Analysis: A Review**, [Proceedings of the IEEE](https://ieeexplore.ieee.org/document/10780969), JCR-IF: 23.2, Engineering, Electrical & Electronic 2/353
 - **[2024] Frequency Mixup Manipulation based Unsupervised Domain Adaptation for Brain Disease Identification**,  [ACPR](https://link.springer.com/chapter/10.1007/978-3-031-47665-5_11), Oral Presentation
 - **[2023] Age-Aware Guidance via Masking-Based Attention in Face Aging**,  [CIKM](https://dl.acm.org/doi/10.1145/3583780.3615183), 27.4% acceptance rate
@@ -40,12 +41,16 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 
 ## ✨ Awards & Honors
 
-- **[2024] TopCow2024 Grand Challenge - "Detection (CTA&MRA): 2nd; Segmentation (CTA&MRA): 3rd; Classification (CTA&MRA): 4th", MICCAI** 
-- **[2023] KU Achievement Award 2022 - "Awarded to the Best Student in Each Department", Korea University**
+- **[2024] TopCow2024 Grand Challenge, MICCAI**
+  - Detection (CTA&MRA): 2nd; Segmentation (CTA&MRA): 3rd; Classification (CTA&MRA): 4th
+- **[2023] KU Achievement Award 2022, Korea University**
+  - Awarded to the Best Student in Each Department
 - **[2023] 4th JW Foundation Fundamental Scientist Scholarship, JW Foundation**
 - **[2023] NAVER Ph.D. Fellowship Award 2022, Naver Corp.**
-- **[2022] Qualcomm Innovation Fellowship Korea 2022 - "Finalist Paper", Qualcomm AI Research**
-- **[2022] KT Business Startup Idea Challenge - "Excellence Award (2nd)", KT Enterprise**
+- **[2022] Qualcomm Innovation Fellowship Korea 2022, Qualcomm AI Research**
+  - One of the finalist Paper in this year
+- **[2022] KT Business Startup Idea Challenge, KT Enterprise**
+  - Excellence Award (2nd)
 - **[2022] Announcement of Outstanding Research Results at the Graduate School of Artificial Intelligence Symposium (Coex Grand Room), Artificial Intelligence Graduate School Council (AIGSC)**
 - **[2022] DataHub Team BK Fellowship Scholarship, Korea University**
 - **[2022] KU Graduate Student Achievement Scholarship, Korea University**

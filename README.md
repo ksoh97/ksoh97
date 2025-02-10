@@ -41,15 +41,12 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[Software Registration] 뇌 영상 기반 설명 가능한 알츠하이머병 조기 예측 프로그램 (No. No. 114471-0002565)**
 
 ## 🏅 Awards & Honors
-- **[2024] TopCow2024 Grand Challenge, MICCAI**
-  - Detection (CTA&MRA): 2nd; Segmentation (CTA&MRA): 3rd; Classification (CTA&MRA): 4th
-- **[2023] KU Achievement Award 2022, Korea University**
-  - Awarded to the Best Student in Each Department
+- **[2024] TopCow2024 Grand Challenge, MICCAI** - Detection (CTA&MRA): 2nd; Segmentation (CTA&MRA): 3rd; Classification (CTA&MRA): 4th
+- **[2023] KU Achievement Award 2022, Korea University** - Awarded to the Best Student in Each Department
 - **[2023] 4th JW Foundation Fundamental Scientist Scholarship, JW Foundation**
 - **[2023] NAVER Ph.D. Fellowship Award 2022, Naver Corp.**
 - **[2022] Qualcomm Innovation Fellowship Korea 2022, Qualcomm AI Research**
-- **[2022] KT Business Startup Idea Challenge, KT Enterprise**
-  - Excellence Award (2nd)
+- **[2022] KT Business Startup Idea Challenge, KT Enterprise** - Excellence Award (2nd)
 - **[2022] Announcement of Outstanding Research Results at the Graduate School of Artificial Intelligence Symposium (Coex Grand Room), Artificial Intelligence Graduate School Council (AIGSC)**
 - **[2022] DataHub Team BK Fellowship Scholarship, Korea University**
 - **[2022] KU Graduate Student Achievement Scholarship, Korea University**

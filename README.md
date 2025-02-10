@@ -18,16 +18,16 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [IEEE TNNLS](https://arxiv.org/pdf/2402.08409)
 
 - **[2025] A Quantitatively Interpretable Model for Alzheimer’s Disease Prediction using Deep Counterfactuals**,  [NeuroImage](https://arxiv.org/pdf/2310.03457), JCR-IF: 4.7, Neuroimaging: 1/15
-- **[2025] Linear Fusion-Based Dual-MR Contrast Enhancement for Improved Choroid Plexus Segmentation**, [ISMRM](https://www.ismrm.org/25/accepted_abstracts.pdf), Oral Presentation
+- **[2025] Linear Fusion-Based Dual-MR Contrast Enhancement for Improved Choroid Plexus Segmentation**, [ISMRM'25](https://www.ismrm.org/25/accepted_abstracts.pdf), Oral Presentation
 - **[2024] Domain Generalization for Medical Image Analysis: A Review**, [Proceedings of the IEEE](https://ieeexplore.ieee.org/document/10780969), JCR-IF: 23.2, Engineering, Electrical & Electronic 2/353
-- **[2024] Frequency Mixup Manipulation based Unsupervised Domain Adaptation for Brain Disease Identification**,  [ACPR](https://link.springer.com/chapter/10.1007/978-3-031-47665-5_11), Oral Presentation
+- **[2024] Frequency Mixup Manipulation based Unsupervised Domain Adaptation for Brain Disease Identification**,  [ACPR'24](https://link.springer.com/chapter/10.1007/978-3-031-47665-5_11), Oral Presentation
 - **[2023] Learn-Explain-Reinforce: Counterfactual Reasoning and Its Guidance to Reinforce an Alzheimer’s Disease Diagnosis Model**, [IEEE TPAMI](https://ieeexplore.ieee.org/document/9854196), JCR-IF: 24.314, Computer Science & Artificial Intelligence: 2/144
-- **[2023] Age-Aware Guidance via Masking-Based Attention in Face Aging**,  [CIKM](https://dl.acm.org/doi/10.1145/3583780.3615183), 27.4% acceptance rate
+- **[2023] Age-Aware Guidance via Masking-Based Attention in Face Aging**,  [CIKM'23](https://dl.acm.org/doi/10.1145/3583780.3615183), 27.4% acceptance rate
 - **[2023] Estimating Explainable Alzheimer’s Disease Likelihood Map via Clinically-Guided Prototype Learning**, [NeuroImage](https://www.sciencedirect.com/science/article/pii/S1053811923002197/pdfft?md5=bf89324ea808eb3f2fe962b358d8c886&pid=1-s2.0-S1053811923002197-main.pdf), JCR-IF: 7.4, Neuroimaging: 2/14
-- **[2022] Quantifying Explainability of Counterfactual-Guided MRI Feature for Alzheimer’s Disease Prediction**,  [MedNeurIPS](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/80.pdf)
-- **[2022] Clinically-guided Prototype Learning and Its Use for Explanation in Alzheimer’s Disease Identification**,  [MedNeurIPS](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/22.pdf)
-- **[2022] A Novel Knowledge Keeper Network for 7T-Free But 7T-Guided Brain Tissue Segmentation**, [MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_32)
-- **[2020] VIGNet: A Deep Convolutional Neural Network for EEG-based Driver Vigilance Estimation**, [IEEE IWCBCI](https://ieeexplore.ieee.org/document/9061668)
+- **[2022] Quantifying Explainability of Counterfactual-Guided MRI Feature for Alzheimer’s Disease Prediction**,  [MedNeurIPS'22](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/80.pdf)
+- **[2022] Clinically-guided Prototype Learning and Its Use for Explanation in Alzheimer’s Disease Identification**,  [MedNeurIPS'22](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/22.pdf)
+- **[2022] A Novel Knowledge Keeper Network for 7T-Free But 7T-Guided Brain Tissue Segmentation**, [MICCAI'22](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_32)
+- **[2020] VIGNet: A Deep Convolutional Neural Network for EEG-based Driver Vigilance Estimation**, [IEEE IWCBCI'20](https://ieeexplore.ieee.org/document/9061668)
 - Domestic Conferences (1 KHBM, 1 IEIE, 1 IPIU, 1 KSEE, 3 KAIA, 1 CKMS, 2 KCR)
 
 ## 📝 Patents & Software Registration

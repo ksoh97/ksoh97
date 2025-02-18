@@ -53,11 +53,11 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[2022] DataHub Team BK Fellowship Scholarship, Korea University**
 - **[2022] KU Graduate Student Achievement Scholarship, Korea University**
 
-## Peer Review
+## 🧑🏻‍💻 Peer Review
 - **Journal**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Medical Imaging (TMI), Neural Networks and Learning Systems (TNNLS), Artificial Intelligence Review, Neural Networks
 - **Conference**: International Conference on Computer Vision and Pattern Recognition (CVPR), The AAAI Conference on Artificial Intelligence (AAAI), International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), International Conference on Medical Imaging with Deep Learning (MIDL)
 
-## Contact
+## ✉️ Contact
 - Tel: +82-2-3290-3738
 - Lab: https://milab.korea.ac.kr
 - E-mail: ksohh@korea.ac.kr

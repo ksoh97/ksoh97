@@ -11,7 +11,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
 ## 📰 Publications
-- **Multi-Scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
+- **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
 - **Integrating Multimodal Large Language Models with Adaptive Context-Aware Decoding for Robust Medical Image Segmentation**, [Under Review](https://arxiv.org/)
 - **DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)
 - **IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**,  [Under Review](https://arxiv.org/pdf/2410.16945)

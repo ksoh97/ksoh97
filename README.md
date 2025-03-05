@@ -11,6 +11,8 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
 ## 📰 Publications
+- **AtreeFormer: Atlas-Free Transformer for rs-fMRI**, [Under Review]
+- **DRiP-SAM: Dynamic Region-Guided Self-Prompting in Segment Anything Model for Intracranial Aneurysm Segmentation**, [Under Review]
 - **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
 - **Integrating Multimodal Large Language Models with Adaptive Context-Aware Decoding for Robust Medical Image Segmentation**, [Under Review](https://arxiv.org/)
 - **DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)

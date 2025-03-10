@@ -1,4 +1,4 @@
-## Kwanseok Oh (Kwan Seok Oh)
+## [Kwanseok Oh (Kwan Seok Oh)](https://scholar.google.com/citations?user=EMYHaHUAAAAJ&hl=ko&oi=ao)
 
 I am a Ph.D candidate in Artificial Intelligence at Korea University.
 

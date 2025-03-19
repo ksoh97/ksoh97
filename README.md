@@ -19,7 +19,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **FIESTA: Fourier-based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**, [Under Review](https://arxiv.org/pdf/2406.14308)
 - **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [IEEE TNNLS](https://arxiv.org/pdf/2402.08409)
 ---
-- **[2025] IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**,  [Artificial Intelligence in Medicine](https://arxiv.org/pdf/2410.16945)
+- **[2025] IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**,  [Artificial Intelligence in Medicine](https://arxiv.org/pdf/2410.16945), JCR-IF: 6.1, Medical Informatics: 4/44
 - **[2025] A Quantitatively Interpretable Model for Alzheimer’s Disease Prediction using Deep Counterfactuals**,  [NeuroImage](https://www.sciencedirect.com/science/article/pii/S1053811925000795?via%3Dihub), JCR-IF: 4.7, Neuroimaging: 1/15
 - **[2025] Linear Fusion-Based Dual-MR Contrast Enhancement for Improved Choroid Plexus Segmentation**, [ISMRM'25](https://www.ismrm.org/25/accepted_abstracts.pdf), Oral Presentation
 - **[2024] Domain Generalization for Medical Image Analysis: A Review**, [Proceedings of the IEEE](https://ieeexplore.ieee.org/), JCR-IF: 23.2, Engineering, Electrical & Electronic 2/353

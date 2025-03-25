@@ -17,7 +17,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
 - **DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)
 - **FIESTA: Fourier-based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**, [Under Review](https://arxiv.org/pdf/2406.14308)
-- **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [IEEE TNNLS](https://arxiv.org/pdf/2402.08409)
+- **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [IEEE TMI](https://arxiv.org/pdf/2402.08409)
 ---
 - **[2025] IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**,  [Artificial Intelligence in Medicine](https://arxiv.org/pdf/2410.16945), JCR-IF: 6.1, Medical Informatics: 4/44
 - **[2025] A Quantitatively Interpretable Model for Alzheimer’s Disease Prediction using Deep Counterfactuals**,  [NeuroImage](https://www.sciencedirect.com/science/article/pii/S1053811925000795?via%3Dihub), JCR-IF: 4.7, Neuroimaging: 1/15

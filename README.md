@@ -58,7 +58,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[2021] KU Graduate Student Achievement Scholarship, Korea University**
 
 ## 🧑🏻‍💻 Peer Review
-- **Journal**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Medical Imaging (TMI), Neural Networks and Learning Systems (TNNLS), Artificial Intelligence Review, Neural Networks, Artificial Intelligence in Medicine
+- **Journal**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Medical Imaging (TMI), Neural Networks and Learning Systems (TNNLS), Medical Image Analysis (MedIA), Artificial Intelligence Review, Neural Networks, Artificial Intelligence in Medicine
 - **Conference**: International Conference on Computer Vision and Pattern Recognition (CVPR), International Conference on Computer Vision (ICCV), The AAAI Conference on Artificial Intelligence (AAAI), International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), International Conference on Medical Imaging with Deep Learning (MIDL)
 
 ## ✉️ Contact

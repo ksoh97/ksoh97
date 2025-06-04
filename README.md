@@ -11,6 +11,9 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
 ## 📰 Publications
+- **Topology-Aware Report Generation for Intracranial Aneurysm Diagnosis in 3D TOF-MRA**, Under Review
+- **Anatomy-Aware Segmentation of Cerebral Arteries for Automated Intracranial Aneurysm Localization on 3D TOF-MRA**, Under Review
+- **Enhancing Robustness in Aneurysm Segmentation Across Variable Sizes via Context-Aware Semantic Augmentation**, Under Review
 - **AtreeFormer: Atlas-Free Transformer for rs-fMRI**, Under Review
 - **DRiP-SAM: Dynamic Region-Guided Self-Prompting in Segment Anything Model for Intracranial Aneurysm Segmentation**, Under Review
 - **Integrating Multimodal Large Language Models with Adaptive Context-Aware Decoding for Robust Medical Report Generation**, Under Review

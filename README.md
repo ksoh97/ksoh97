@@ -34,7 +34,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[2022] Clinically-guided Prototype Learning and Its Use for Explanation in Alzheimer’s Disease Identification**,  [MedNeurIPS'22](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/22.pdf)
 - **[2022] A Novel Knowledge Keeper Network for 7T-Free But 7T-Guided Brain Tissue Segmentation**, [MICCAI'22](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_32)
 - **[2020] VIGNet: A Deep Convolutional Neural Network for EEG-based Driver Vigilance Estimation**, [IEEE IWCBCI'20](https://ieeexplore.ieee.org/document/9061668)
-- Domestic Conferences (1 KHBM, 1 IEIE, 1 IPIU, 1 KSEE, 3 KAIA, 1 CKMS, 2 KCR)
+- Domestic Conferences (1 KHBM, 1 IEIE, 1 IPIU, 1 KSEE, 3 KAIA, 1 CKMS, 3 KCR)
 
 ## 📝 Patents & Software Registration
 - **[US Patent Registration] METHOD AND APPARATUS FOR REASONING AND REINFORCING DECISION IN BRAIN DISEASE DIAGNOSIS MODEL (No. 17714390)**

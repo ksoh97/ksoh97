@@ -11,10 +11,6 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
 ## 📰 Publications
-- **Topology-Aware Report Generation for Intracranial Aneurysm Diagnosis in 3D TOF-MRA**, Under Review
-- **Anatomy-Aware Segmentation of Cerebral Arteries for Automated Intracranial Aneurysm Localization on 3D TOF-MRA**, Under Review
-- **Enhancing Robustness in Aneurysm Segmentation Across Variable Sizes via Context-Aware Semantic Augmentation**, Under Review
-- **AtreeFormer: Atlas-Free Transformer for rs-fMRI**, Under Review
 - **DRiP-SAM: Dynamic Region-Guided Self-Prompting in Segment Anything Model for Intracranial Aneurysm Segmentation**, Under Review
 - **Integrating Multimodal Large Language Models with Adaptive Context-Aware Decoding for Robust Medical Report Generation**, Under Review
 - **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
@@ -22,6 +18,9 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **FIESTA: Fourier-based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**, [Under Review](https://arxiv.org/pdf/2406.14308)
 - **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [IEEE TMI](https://arxiv.org/pdf/2402.08409)
 ---
+- **[2025]Topology-Aware Report Generation for Intracranial Aneurysm Diagnosis in 3D TOF-MRA**, [ESNR'25]
+- **[2025] Anatomy-Aware Segmentation of Cerebral Arteries for Automated Intracranial Aneurysm Localization on 3D TOF-MRA**, [ESNR'25]
+- **[2025] Enhancing Robustness in Aneurysm Segmentation Across Variable Sizes via Context-Aware Semantic Augmentation**, [ESNR'25]
 - **[2025] IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**,  [Artificial Intelligence in Medicine](https://arxiv.org/pdf/2410.16945), JCR-IF: 6.1, Medical Informatics: 4/44
 - **[2025] A Quantitatively Interpretable Model for Alzheimer’s Disease Prediction using Deep Counterfactuals**,  [NeuroImage](https://www.sciencedirect.com/science/article/pii/S1053811925000795?via%3Dihub), JCR-IF: 4.7, Neuroimaging: 1/15
 - **[2025] Linear Fusion-Based Dual-MR Contrast Enhancement for Improved Choroid Plexus Segmentation**, [ISMRM'25](https://www.ismrm.org/25/accepted_abstracts.pdf), Oral Presentation

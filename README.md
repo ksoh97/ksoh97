@@ -7,7 +7,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - Generalizable/Foundational Modeling, Vision-Language Model, Explainable AI, Representation Learning, and Biomedical image analysis
 
 ## 🛠️ Skills
-- Programming Language: Python, Visual C/C++, Javascript, R, and MATLAB
+- Programming Language: Python, Visual C/C++, JavaScript, R, and MATLAB
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
 ## 📰 Publications
@@ -18,7 +18,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **FIESTA: Fourier-based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**, [Under Review](https://arxiv.org/pdf/2406.14308)
 - **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [IEEE TMI](https://arxiv.org/pdf/2402.08409)
 ---
-- **[2025]Topology-Aware Report Generation for Intracranial Aneurysm Diagnosis in 3D TOF-MRA**, [ESNR'25](https://www.esnr.org/event-details/6890#48th_ESNR_Annual_Meeting_&_15th_Asian-Oceanian_Congress_of_Neuroradiology_and_Head_and_Neck_Radiology_&_34th_Annual_Meeting_of_the_Turkish_Society_of_Neuroradiology&Welcome_Message)
+- **[2025] Topology-Aware Report Generation for Intracranial Aneurysm Diagnosis in 3D TOF-MRA**, [ESNR'25](https://www.esnr.org/event-details/6890#48th_ESNR_Annual_Meeting_&_15th_Asian-Oceanian_Congress_of_Neuroradiology_and_Head_and_Neck_Radiology_&_34th_Annual_Meeting_of_the_Turkish_Society_of_Neuroradiology&Welcome_Message)
 - **[2025] Anatomy-Aware Segmentation of Cerebral Arteries for Automated Intracranial Aneurysm Localization on 3D TOF-MRA**, [ESNR'25](https://www.esnr.org/event-details/6890#48th_ESNR_Annual_Meeting_&_15th_Asian-Oceanian_Congress_of_Neuroradiology_and_Head_and_Neck_Radiology_&_34th_Annual_Meeting_of_the_Turkish_Society_of_Neuroradiology&Welcome_Message)
 - **[2025] Enhancing Robustness in Aneurysm Segmentation Across Variable Sizes via Context-Aware Semantic Augmentation**, [ESNR'25](https://www.esnr.org/event-details/6890#48th_ESNR_Annual_Meeting_&_15th_Asian-Oceanian_Congress_of_Neuroradiology_and_Head_and_Neck_Radiology_&_34th_Annual_Meeting_of_the_Turkish_Society_of_Neuroradiology&Welcome_Message)
 - **[2025] IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**,  [Artificial Intelligence in Medicine](https://arxiv.org/pdf/2410.16945), JCR-IF: 6.1, Medical Informatics: 4/44
@@ -36,6 +36,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - Domestic Conferences (1 KHBM, 1 IEIE, 1 IPIU, 1 KSEE, 3 KAIA, 1 CKMS, 3 KCR)
 
 ## 📝 Patents & Software Registration
+- **[PCT International Application] 불확실성 지침을 활용한 푸리에 기반 의미론적 증강 장치 (No. PCT/KR2025/009405)**
 - **[US Patent Registration] METHOD AND APPARATUS FOR REASONING AND REINFORCING DECISION IN BRAIN DISEASE DIAGNOSIS MODEL (No. 17714390)**
 - **[US Patent Application] BRAIN IMAGE-BASED QUANTITATIVE BRAIN DISEASE PREDICTION METHOD AND APPARATUS (No. 18212261)**
 - **[KR Patent Registration] 알츠하이머병 진단 모델의 결정을 해석하고 강화하는 방법 및 장치 (No. 10-2593036)**

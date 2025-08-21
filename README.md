@@ -59,6 +59,21 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[2022] DataHub Team BK Fellowship Scholarship, Korea University**
 - **[2022] KU Graduate Student Achievement Scholarship, Korea University**
 - **[2021] KU Graduate Student Achievement Scholarship, Korea University**
+- **[2020] The 8th Information Technology University Work Exhibition**  - Silver Prize (2nd)
+- **[2019] X-Corps Competition** - Silver Prize (3rd Place)
+- **[2019] WTA Daejeon Hi-Tech Fair** - 4th Place Achievement
+- **[2019] Power Electronics Conference** - Minister of Small and Medium Venture Business Award (중소벤처기업부장관상)
+- **[2019] Practical Problem Research Group UCC Work Evaluation** - Excellence Award (2nd Place)
+- **[2018] X-Corps Competition** - Grand Prize (1st Place)
+- **[2018] Capstone Design Auction Market (Crowd funding)** - 2nd Place Achievement
+- **[2018] IT Convergence Hanbat RC Festival** - Gold Prize (1st Place)
+- **[2018] International Invention Patent Exhibition** - Gold Prize (1st Place)
+- **[2018] K6U-Belt Regional Center National University Capstone Design Challenge** - Grand Prize (1st Place)
+- **[2018] Young Innovator Award** - The Certification awarded by Citizen Innovation from Singapore (Special Award)
+- **[2018] Engineering Education Base Center Creative Comprehensive Design Challenge** - 4th Place Achievement
+- **[2018] The 11th Creative Comprehensive Design Challenge** - Grand Prize (1st Place)
+- **[2018] National Intelligent Robot Challenge** - Grand Prize (1st Place)
+- **[2018] Power Electronics Conference** - Korea Electric Power Corporation Award (한국전력공사상)
 
 ## 🧑🏻‍💻 Peer Review
 - **Journal**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Medical Imaging (TMI), Neural Networks and Learning Systems (TNNLS), Medical Image Analysis (MedIA), Artificial Intelligence Review, Neural Networks, Artificial Intelligence in Medicine

@@ -48,6 +48,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[Software Registration] 뇌 영상 기반 설명 가능한 알츠하이머병 조기 예측 프로그램 (No. No. 114471-0002565)**
 
 ## 🏅 Awards & Honors
+- **[2025] Best Paper Presentation Award, KoSAIM (대한의료인공지능학회)**
 - **[2025] TopBrain2025 Grand Challenge, MICCAI** - CTA Segmentation: 1st; MRA Segmentation: 2nd
 - **[2025] Outstanding Research – 2024 Research Scholarship Program (JFR & Academic Research Association), Korea University** - Ranked in the top 30% of research outcomes
 - **[2024] TopCow2024 Grand Challenge, MICCAI** - Detection (CTA&MRA): 2nd; Segmentation (CTA&MRA): 3rd; Classification (CTA&MRA): 4th

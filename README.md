@@ -15,7 +15,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **Integrating Multimodal Large Language Models with Adaptive Context-Aware Decoding for Robust Medical Report Generation**, Under Review
 - **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
 - **DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)
-- **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [IEEE TMI](https://arxiv.org/pdf/2402.08409)
+- **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Under Review](https://arxiv.org/pdf/2402.08409)
 ---
 - **[2025] FIESTA: Fourier-based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**, [IEEE TNNLS](https://arxiv.org/pdf/2406.14308), JCR-IF: 10.2, Computer Science, Artificial Intelligence: 13/197, Computer Science, Theory & Methods: 7/143, Engineering, Electrical & Electronic: 11/352
 - **[2025] Topology-Aware Report Generation for Intracranial Aneurysm Diagnosis in 3D TOF-MRA**, [ESNR'25](https://www.esnr.org/event-details/6890#48th_ESNR_Annual_Meeting_&_15th_Asian-Oceanian_Congress_of_Neuroradiology_and_Head_and_Neck_Radiology_&_34th_Annual_Meeting_of_the_Turkish_Society_of_Neuroradiology&Welcome_Message)

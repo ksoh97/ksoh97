@@ -11,14 +11,14 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
 ## 📰 Publications
-- **PaT-Diff: Pathology-Aware Residual Diffusion Framework for MRI-to-PET Translation in Alzheimer's Disease**, Under Review
-- **SAM-TXD: SAM with Text-Guided Diffusion for Refined Medical Image Segmentation**, Under Review
 - **DReAM-SAM: Dynamic Region-Adaptive Modulated Segment Anything Model with Self-Prompting for Medical Image Segmentation**, Under Review
 - **Integrating Multimodal Large Language Models with Adaptive Context-Aware Decoding for Robust Medical Report Generation**, Under Review
 - **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
 - **DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)
 - **Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Under Review](https://arxiv.org/pdf/2402.08409)
 ---
+- **[2026] PaT-Diff: Pathology-Aware Residual Diffusion Framework for MRI-to-PET Translation in Alzheimer's Disease**, [IEEE ISBI](https://biomedicalimaging.org/2026/)
+- **[2026] SAM-TXD: SAM with Text-Guided Diffusion for Refined Medical Image Segmentation**, [IEEE ISBI](https://biomedicalimaging.org/2026/)
 - **[2025] FIESTA: Fourier-based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**, [IEEE TNNLS](https://arxiv.org/pdf/2406.14308), JCR-IF: 10.2, Computer Science, Artificial Intelligence: 13/197, Computer Science, Theory & Methods: 7/143, Engineering, Electrical & Electronic: 11/352
 - **[2025] Fine-Tuned Segment Anything Model for Automatic Intracranial Aneurysm Segmentation in Time-of-Flight MR Angiography: Comparison with Non-Radiologist Physicians**, [RSNA'25](https://www.rsna.org/)
 - **[2025] Topology-Aware Report Generation for Intracranial Aneurysm Diagnosis in 3D TOF-MRA**, [ESNR'25](https://www.esnr.org/event-details/6890#48th_ESNR_Annual_Meeting_&_15th_Asian-Oceanian_Congress_of_Neuroradiology_and_Head_and_Neck_Radiology_&_34th_Annual_Meeting_of_the_Turkish_Society_of_Neuroradiology&Welcome_Message)

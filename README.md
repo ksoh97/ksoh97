@@ -11,6 +11,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
 ## 📰 Publications
+- **HiRAM: Hierarchical Region-Aware Multi-Granularity Mamba for White Matter Lesion Segmentation**, Under Review
 - **DReAM-SAM: Dynamic Region-Adaptive Modulated Segment Anything Model with Self-Prompting for Medical Image Segmentation**, Under Review
 - **Integrating Multimodal Large Language Models with Adaptive Context-Aware Decoding for Robust Medical Report Generation**, Under Review
 - **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)

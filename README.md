@@ -42,7 +42,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 ## 📝 Patents & Software Registration
 - **[PCT International Application] 불확실성 지침을 활용한 푸리에 기반 의미론적 증강 장치 (No. PCT/KR2025/009405)**
 - **[US Patent Registration] METHOD AND APPARATUS FOR REASONING AND REINFORCING DECISION IN BRAIN DISEASE DIAGNOSIS MODEL (No. 17714390)**
-- **[US Patent Application] BRAIN IMAGE-BASED QUANTITATIVE BRAIN DISEASE PREDICTION METHOD AND APPARATUS (No. 18212261)**
+- **[US Patent Registration] BRAIN IMAGE-BASED QUANTITATIVE BRAIN DISEASE PREDICTION METHOD AND APPARATUS (No. 18212261)**
 - **[KR Patent Registration] 알츠하이머병 진단 모델의 결정을 해석하고 강화하는 방법 및 장치 (No. 10-2593036)**
 - **[KR Patent Registration] 분류 결과 설명이 가능한 반 사실적 맵 생성 방법 및 그 장치 (No. 10-2496769)**
 - **[KR Patent Registration] 자기공명영상 기반 뇌질환 예측 방법 및 장치 (No. 10-2760232)**

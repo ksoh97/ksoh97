@@ -68,7 +68,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[2020] The 8th Information Technology University Work Exhibition**  - Silver Prize (2nd)
 - **[2019] X-Corps Competition** - Silver Prize (3rd Place)
 - **[2019] WTA Daejeon Hi-Tech Fair** - 4th Place Achievement
-- **[2019] Power Electronics Conference** - Minister of Small and Medium Venture Business Award (중소벤처기업부장관상)
+- **[2019] Power Electronics Conference** - Minister of Small and Medium Venture Business Award (중소벤처기업부 장관상)
 - **[2019] Practical Problem Research Group UCC Work Evaluation** - Excellence Award (2nd Place)
 - **[2018] X-Corps Competition** - Grand Prize (1st Place)
 - **[2018] Capstone Design Auction Market (Crowd funding)** - 2nd Place Achievement

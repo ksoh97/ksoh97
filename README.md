@@ -49,7 +49,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[KR Patent Application] 뇌혈관계 다중 분할 기반의 뇌동맥류 검출 장치 (No. 10-2024-0169281)**
 - **[KR Patent Application] 불확실성 지침을 활용한 푸리에 기반 의미론적 증강 장치 (No. 10-2024-0112696)**
 - **[Technology Transfer/KR Patent Registration] 반려동물 관리시스템 및 방법 (No. 10-1983101)**
-- **[Software Registration] 뇌 영상 기반 설명 가능한 알츠하이머병 조기 예측 프로그램 (No. No. 114471-0002565)**
+- **[Software Registration] 뇌 영상 기반 설명 가능한 알츠하이머병 조기 예측 프로그램 (No. 114471-0002565)**
 
 ## 🏅 Awards & Honors
 - **[2025] Best Paper Presentation Award, KoSAIM (대한의료인공지능학회)**

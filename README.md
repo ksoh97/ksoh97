@@ -65,6 +65,7 @@ I am a Ph.D candidate in Artificial Intelligence at Korea University.
 - **[2022] Announcement of Outstanding Research Results at the Graduate School of Artificial Intelligence Symposium (Coex Grand Room), Artificial Intelligence Graduate School Council (AIGSC)**
 - **[2022] DataHub Team BK Fellowship Scholarship, Korea University**
 - **[2022] KU Graduate Student Achievement Scholarship, Korea University**
+- **[2021] Best Research Presentation Award, LG CNS**
 - **[2021] KU Graduate Student Achievement Scholarship, Korea University**
 - **[2020] The 8th Information Technology University Work Exhibition**  - Silver Prize (2nd)
 - **[2019] X-Corps Competition** - Silver Prize (3rd Place)

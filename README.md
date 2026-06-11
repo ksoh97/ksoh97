@@ -1,7 +1,5 @@
 ## [Kwanseok Oh (Kwan Seok Oh)](https://scholar.google.com/citations?user=EMYHaHUAAAAJ&hl=ko&oi=ao)
 
-I am a Ph.D candidate in Artificial Intelligence at Korea University.
-
 ## 🧐 Research Interests
 - Medical/Computer Vision
 - Generalizable/Foundational Modeling, Vision-Language Model, Explainable AI, Representation Learning, and Biomedical image analysis

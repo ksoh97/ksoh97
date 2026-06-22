@@ -82,8 +82,8 @@
 - **[2018] Power Electronics Conference** - Korea Electric Power Corporation Award (한국전력공사상)
 
 ## 🧑🏻‍💻 Peer Review
-- **Journal**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Medical Imaging (TMI), Neural Networks and Learning Systems (TNNLS), Medical Image Analysis (MedIA), Journal of Biomedical and Health Informatics (JBHI), Artificial Intelligence Review, Neural Networks, Artificial Intelligence in Medicine
-- **Conference**: International Conference on Computer Vision and Pattern Recognition (CVPR), International Conference on Computer Vision (ICCV), The AAAI Conference on Artificial Intelligence (AAAI), International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), International Conference on Medical Imaging with Deep Learning (MIDL)
+- **Journal**: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Medical Imaging (TMI), Neural Networks and Learning Systems (TNNLS), Medical Image Analysis (MedIA), Journal of Biomedical and Health Informatics (JBHI), Artificial Intelligence Review, Neural Networks, Artificial Intelligence in Medicine, and Scientific Reports
+- **Conference**: International Conference on Computer Vision and Pattern Recognition (CVPR), International Conference on Computer Vision (ICCV), The AAAI Conference on Artificial Intelligence (AAAI), International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), and International Conference on Medical Imaging with Deep Learning (MIDL)
 
 ## ✉️ Contact
 - Tel: +82-2-3290-3738

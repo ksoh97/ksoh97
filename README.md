@@ -9,13 +9,15 @@
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
 ## 📰 Publications
+- **TopBrain segmentation challenge for whole brain vessel anatomy**, Under Review 
 - **Adapting Vision Foundation Model via Sparsely-Gated Mixture-of-Experts for Brain Disease Diagnosis**, Under Review 
 - **DReAM-SAM: Dynamic Region-Adaptive Modulated Segment Anything Model with Self-Prompting for Medical Image Segmentation**, Under Review
 - **Integrating Multimodal Large Language Models with Adaptive Context-Aware Decoding for Robust Medical Report Generation**, Under Review
 - **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
 - **DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)
 ---
-- **[2026] Hierarchical Region-Aware Multi-Granularity Mamba for White Matter Lesion Segmentation**, [MICCAI'26]
+- **Benchmarking the CoW with the Topcow Challenge: Topology-aware Anatomical Segmentation of the Circle of Willis for CTA and MRA**, [NEJM AI](https://ai.nejm.org/)
+- **[2026] Hierarchical Region-Aware Multi-Granularity Mamba for White Matter Lesion Segmentation**, [MICCAI'26](https://conferences.miccai.org/2026/en/default.asp)
 - **[2026] Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003298), JCR-IF: 7.6, Engineering, Electrical & Electronic: 33/368
 - **[2026] PaT-Diff: Pathology-Aware Residual Diffusion Framework for MRI-to-PET Translation in Alzheimer's Disease**, [IEEE ISBI](https://biomedicalimaging.org/2026/), Oral Presentation
 - **[2026] SAM-TXD: SAM with Text-Guided Diffusion for Refined Medical Image Segmentation**, [IEEE ISBI](https://biomedicalimaging.org/2026/), Oral Presentation

@@ -16,7 +16,7 @@
 - **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
 - **DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)
 ---
-- **Benchmarking the CoW with the Topcow Challenge: Topology-aware Anatomical Segmentation of the Circle of Willis for CTA and MRA**, [NEJM AI](https://ai.nejm.org/)
+- **[2026] Benchmarking the CoW with the Topcow Challenge: Topology-aware Anatomical Segmentation of the Circle of Willis for CTA and MRA**, [NEJM AI](https://ai.nejm.org/)
 - **[2026] Hierarchical Region-Aware Multi-Granularity Mamba for White Matter Lesion Segmentation**, [MICCAI'26](https://conferences.miccai.org/2026/en/default.asp)
 - **[2026] Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003298), JCR-IF: 7.6, Engineering, Electrical & Electronic: 33/368
 - **[2026] PaT-Diff: Pathology-Aware Residual Diffusion Framework for MRI-to-PET Translation in Alzheimer's Disease**, [IEEE ISBI](https://biomedicalimaging.org/2026/), Oral Presentation
@@ -38,7 +38,7 @@
 - **[2022] Clinically-guided Prototype Learning and Its Use for Explanation in Alzheimer’s Disease Identification**,  [MedNeurIPS'22](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/22.pdf)
 - **[2022] A Novel Knowledge Keeper Network for 7T-Free But 7T-Guided Brain Tissue Segmentation**, [MICCAI'22](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_32)
 - **[2020] VIGNet: A Deep Convolutional Neural Network for EEG-based Driver Vigilance Estimation**, [IEEE IWCBCI'20](https://ieeexplore.ieee.org/document/9061668)
-- Domestic Conferences (1 KHBM, 1 IEIE, 1 IPIU, 1 KSEE, 3 KAIA, 1 CKMS, 3 KCR, 1 KoSAIM)
+- Domestic Conferences (1 KHBM, 1 IEIE, 1 IPIU, 1 KSEE, 3 KAIA, 1 CKMS, 4 KCR, 1 KoSAIM)
 
 ## 📝 Patents & Software Registration
 - **[PCT International Application] 불확실성 지침을 활용한 푸리에 기반 의미론적 증강 장치 (No. PCT/KR2025/009405)**

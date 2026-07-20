@@ -9,7 +9,7 @@
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
 ## 📰 Publications
-- **TopBrain segmentation challenge for whole brain vessel anatomy**, Under Review 
+- **TopBrain segmentation challenge for whole brain vessel anatomy**, [Under Review](https://www.medrxiv.org/content/10.64898/2026.05.28.26354312v1) 
 - **Adapting Vision Foundation Model via Sparsely-Gated Mixture-of-Experts for Brain Disease Diagnosis**, Under Review 
 - **DReAM-SAM: Dynamic Region-Adaptive Modulated Segment Anything Model with Self-Prompting for Medical Image Segmentation**, Under Review
 - **Integrating Multimodal Large Language Models with Adaptive Context-Aware Decoding for Robust Medical Report Generation**, Under Review

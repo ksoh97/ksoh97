@@ -18,7 +18,7 @@
 ---
 - **[2026] Benchmarking the CoW with the Topcow Challenge: Topology-aware Anatomical Segmentation of the Circle of Willis for CTA and MRA**, [NEJM AI](https://ai.nejm.org/)
 - **[2026] Hierarchical Region-Aware Multi-Granularity Mamba for White Matter Lesion Segmentation**, [MICCAI'26](https://conferences.miccai.org/2026/en/default.asp)
-- **[2026] Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003298), JCR-IF: 7.6, Engineering, Electrical & Electronic: 33/368
+- **[2026] Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003298), JCR-IF: 9.1, Engineering, Electrical & Electronic: 33/368
 - **[2026] PaT-Diff: Pathology-Aware Residual Diffusion Framework for MRI-to-PET Translation in Alzheimer's Disease**, [IEEE ISBI](https://biomedicalimaging.org/2026/), Oral Presentation
 - **[2026] SAM-TXD: SAM with Text-Guided Diffusion for Refined Medical Image Segmentation**, [IEEE ISBI](https://biomedicalimaging.org/2026/), Oral Presentation
 - **[2025] FIESTA: Fourier-based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**, [IEEE TNNLS](https://arxiv.org/pdf/2406.14308), JCR-IF: 10.2, Computer Science, Artificial Intelligence: 13/197, Computer Science, Theory & Methods: 7/143, Engineering, Electrical & Electronic: 11/352

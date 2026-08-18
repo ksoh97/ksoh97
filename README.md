@@ -14,8 +14,8 @@
 - **DReAM-SAM: Dynamic Region-Adaptive Modulated Segment Anything Model with Self-Prompting for Medical Image Segmentation**, Under Review
 - **Integrating Multimodal Large Language Models with Adaptive Context-Aware Decoding for Robust Medical Report Generation**, Under Review
 - **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
-- **DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)
 ---
+- **[2026] DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Under Review](https://arxiv.org/pdf/2410.12827)
 - **[2026] The TopCoW Challenge—Topology-Aware Circle of Willis Segmentation for CT and MR Angiography**, [NEJM AI](https://ai.nejm.org/)
 - **[2026] Hierarchical Region-Aware Multi-Granularity Mamba for White Matter Lesion Segmentation**, [MICCAI'26](https://conferences.miccai.org/2026/en/default.asp)
 - **[2026] Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003298), JCR-IF: 9.1, Engineering, Electrical & Electronic: 33/368

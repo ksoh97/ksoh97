@@ -45,9 +45,9 @@
 - **[US Patent Registration] METHOD AND APPARATUS FOR REASONING AND REINFORCING DECISION IN BRAIN DISEASE DIAGNOSIS MODEL (No. 17714390)**
 - **[US Patent Registration] BRAIN IMAGE-BASED QUANTITATIVE BRAIN DISEASE PREDICTION METHOD AND APPARATUS (No. 18212261)**
 - **[KR Patent Registration] 알츠하이머병 진단 모델의 결정을 해석하고 강화하는 방법 및 장치 (No. 10-2593036)**
-- **[KR Patent Registration] 분류 결과 설명이 가능한 반 사실적 맵 생성 방법 및 그 장치 (No. 10-2496769)**
+- **[KR Patent Registration] 분류 결과 설명이 가능한 반사실적 맵 생성 방법 및 그 장치 (No. 10-2496769)**
 - **[KR Patent Registration] 자기공명영상 기반 뇌질환 예측 방법 및 장치 (No. 10-2760232)**
-- **[KR Patent Application] 뇌혈관계 다중 분할 기반의 뇌동맥류 검출 장치 (No. 10-2024-0169281)**
+- **[KR Patent Registration] 뇌혈관계 다중 분할 기반의 뇌동맥류 검출 장치 (No. 10-3014339)**
 - **[KR Patent Application] 불확실성 지침을 활용한 푸리에 기반 의미론적 증강 장치 (No. 10-2024-0112696)**
 - **[Technology Transfer/KR Patent Registration] 반려동물 관리시스템 및 방법 (No. 10-1983101)**
 - **[Software Registration] 뇌 영상 기반 설명 가능한 알츠하이머병 조기 예측 프로그램 (No. 114471-0002565)**

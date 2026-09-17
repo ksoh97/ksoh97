@@ -88,6 +88,4 @@
 - **Conference**: International Conference on Computer Vision and Pattern Recognition (CVPR), International Conference on Computer Vision (ICCV), The AAAI Conference on Artificial Intelligence (AAAI), International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), and International Conference on Medical Imaging with Deep Learning (MIDL)
 
 ## ✉️ Contact
-- Tel: +82-2-3290-3738
-- Lab: https://milab.korea.ac.kr
 - E-mail: ksohh@korea.ac.kr

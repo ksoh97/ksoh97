@@ -5,7 +5,7 @@
 - Generalizable/Foundational Modeling, Vision-Language Model, Explainable AI, Representation Learning, and Biomedical image analysis
 
 ## 🛠️ Skills
-- Programming Language: Python, Visual C/C++, JavaScript, R, and MATLAB
+- Programming Languages: Python, Visual C/C++, JavaScript, R, and MATLAB
 - Deep Learning Framework: TensorFlow/Keras, PyTorch
 
 ## 📰 Publications
@@ -16,7 +16,7 @@
 - **MEASURE: Multi-scale Minimal Sufficient Representation Learning for Domain Generalization in Sleep Staging**, [Under Review](https://openreview.net/pdf?id=Ww599CnVnU)
 ---
 - **[2026] Cortically-Resolved Recurrent Architecture for fMRI**, [NeurIPS'26](https://neurips.cc/Downloads/2026), Main Track
-- **[2026] DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**,  [Pattern Recognition](https://doi.org/10.1016/j.patcog.2026.114719), JCR-IF: 9.1, Engineering, Electrical & Electronic: 25/369
+- **[2026] DyMix: Dynamic Frequency Mixup Scheduler- based Unsupervised Domain Adaptation for Enhancing Alzheimer’s Disease Identification**, [Pattern Recognition](https://doi.org/10.1016/j.patcog.2026.114719), JCR-IF: 9.1, Engineering, Electrical & Electronic: 25/369
 - **[2026] The TopCoW Challenge—Topology-Aware Circle of Willis Segmentation for CT and MR Angiography**, [NEJM AI](https://ai.nejm.org/)
 - **[2026] Hierarchical Region-Aware Multi-Granularity Mamba for White Matter Lesion Segmentation**, [MICCAI'26](https://papers.miccai.org/miccai-2026/paper/2898_paper.pdf)
 - **[2026] Transferring Ultra-high Field Feature Representations for Intensity-Guided Brain Segmentation of Low Field Magnetic Resonance Imaging**,  [Pattern Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003298), JCR-IF: 9.1, Engineering, Electrical & Electronic: 25/369
@@ -54,7 +54,8 @@
 - **[Software Registration] 뇌 영상 기반 설명 가능한 알츠하이머병 조기 예측 프로그램 (No. 114471-0002565)**
 
 ## 🏅 Awards & Honors
-- **[2025] Best Paper Presentation Award, KoSAIM (대한의료인공지능학회)**
+- **[2026] Best Poster Presentation Award, KoSAIM (대한의료인공지능학회)**
+- **[2025] Best Poster Presentation Award, KoSAIM (대한의료인공지능학회)**
 - **[2025] TopBrain2025 Grand Challenge, MICCAI** - CTA Segmentation: 1st; MRA Segmentation: 2nd
 - **[2025] Outstanding Research – 2024 Research Scholarship Program (JFR & Academic Research Association), Korea University** - Ranked in the top 30% of research outcomes
 - **[2024] TopCow2024 Grand Challenge, MICCAI** - Detection (CTA&MRA): 2nd; Segmentation (CTA&MRA): 3rd; Classification (CTA&MRA): 4th
